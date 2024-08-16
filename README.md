@@ -1,17 +1,14 @@
-## Hi there 👋
+# Hii! My name is Rakhitha
 
-<!--
-**rakhithad/rakhithad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m currently pursuing a BEng(Hons) in Software Engineering at the Informatics Institute of Technology
+- 🌱 I’m currently learning web development and mobile development
+- 📫 Reach me: (rakhithaprabashwara@gmail.com)
 
-Here are some ideas to get you started:
+# My Top Languages: 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhithad)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Github Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhithad&show_icons=true&theme=tokyonight)
